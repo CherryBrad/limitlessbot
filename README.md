@@ -1,2 +1,0 @@
-# limitlessbot
-my bot
